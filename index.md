@@ -10,7 +10,7 @@ les étudiants ont la charge de découvrir par eux-mêmes : la maîtrise de leur
 outils. Dans ce cours, nous allons vous apprendre à maîtriser la ligne de
 commande, à utiliser un puissant éditeur de texte, à se servir de
 fonctionnalités avancées des systèmes de gestion de versions, et pleins d'autres
-choses encore !
+choses encore !
 
 Les étudiants passent des centaines d'heures à utiliser ces outils tout au long
 de leurs formations (et parfois des milliers d'heures durant leurs carrières).
