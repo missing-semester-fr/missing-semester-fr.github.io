@@ -1,33 +1,40 @@
 ---
 layout: default
-title: "License"
+title: "Licence"
 permalink: /license/
 ---
 
-# License
+# Licence
 
-All the content in this course, including the website source code, lecture notes, exercises, and lecture videos is licensed under Attribution-NonCommercial-ShareAlike 4.0 International [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+L'ensemble du contenu de ce cours, y compris le code source du site, les notes
+de cours, les exercices, et les vidéos de cours sont sous licence
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-This means that you are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
+Cela signifie que vous pouvez librement :
 
-Under the following terms:
+-   **Partager** — copier et redistribuer ces ressources sous n'importe quel moyen ou format
+-   **Adapter** — mélanger, transformer, et construire à partir de ces ressources
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial** — You may not use the material for commercial purposes.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+Sous les conditions suivantes :
 
-This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+-   **Attribution** — l'œuvre peut être librement utilisée, à la condition de l'attribuer à l'auteur en citant son nom. Cela ne signifie pas que l'auteur est en accord avec l'utilisation qui est faite de ses œuvres.
+-   **Pas d'utilisation commerciale** — le titulaire de droits peut autoriser tous les types d’utilisation ou au contraire restreindre aux utilisations non commerciales (les utilisations commerciales restant soumises à son autorisation). Elle autorise à reproduire, diffuser, et à modifier une œuvre, tant que l'utilisation n'est pas commerciale.
+-   **Partage dans les mêmes conditions** — le titulaire des droits peut autoriser à l'avance les modifications ; peut se superposer l'obligation (SA) pour les œuvres dites dérivées d'être proposées au public avec les mêmes libertés que l'œuvre originale (sous les mêmes options Creative Commons).
 
-## Contribution guidelines
+Ceci est un résumé de (et non un substitut) de la
+[licence](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
-You can submit corrections and suggestions to the course material by submitting issues and pull requests on our GitHub [repo](https://github.com/missing-semester/missing-semester). This includes the captions for the video lectures which are also in the repo (see [here](https://github.com/missing-semester/missing-semester/tree/master/static/files/subtitles/2020)).
+## Comment contribuer
 
-## Translation guidelines
+Vous pouvez soumettre des corretions et des suggestions aux ressources du cours
+en soumettant des _issues_ et des _pull requests_ sur notre [répertoire GitHub](https://github.com/missing-semester/missing-semester). Cela inclut les sous-titres pour les enregistrements vidéo des cours qui sont également dans ce répertoire (voir [ici](https://github.com/missing-semester/missing-semester/tree/master/static/files/subtitles/2020)).
 
-You are free to translate the lecture notes and exercises as long as you follow the license terms.
-If your translation mirrors the course structure, please contact us so we can link your translated version from our page.
+## Consignes pour les traductions
 
-For translating the video captions, please submit your translations as community contributions in YouTube.
+Vous êtes libre de traduire les notes de cours ainsi que les exercices tant que
+vous respectez les termes de la licence CC BY-NC-SA. Si vous traduction reflète
+le plan du cours, merci de nous contacter afin de rajouter un lien depuis notre
+page vers la version traduite.
 
+Pour traduire les sous-titres des enregistrements vidéo, merci de soumettre ces
+contributions en tant que contributions communautaires sur YouTube.
