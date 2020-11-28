@@ -20,7 +20,7 @@ passer inutilement des heures à les configurer pour une tâche spécifique, mai
 aussi et surtout de pouvoir résoudre des problèmes qui semblaient au préalable
 impossible à résoudre.
 
-Plus quant à la [raison d'être de ce cours](/about/).
+Plus d'informations quant à la [raison d'être de ce cours](/about/).
 
 {% comment %}
 
@@ -76,13 +76,13 @@ messages et discussions sur
 # Traductions
 
 -   [Version originale (en Anglais)](https://missing.csail.mit.edu/)
--   [Chinese (Simplified)](https://missing-semester-cn.github.io/)
--   [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
--   [Korean](https://missing-semester-kr.github.io/)
--   [Serbian](https://netboxify.com/missing-semester/)
--   [Spanish](https://missing-semester-esp.github.io/)
--   [Turkish](https://missing-semester-tr.github.io/)
--   [Vietnamese](https://missing-semester-vn.github.io/)
+-   [Chinois (simplifié)](https://missing-semester-cn.github.io/)
+-   [Chinois (traditionnel)](https://missing-semester-zh-hant.github.io/)
+-   [Coréen](https://missing-semester-kr.github.io/)
+-   [Serbe](https://netboxify.com/missing-semester/)
+-   [Espagnol](https://missing-semester-esp.github.io/)
+-   [Turc](https://missing-semester-tr.github.io/)
+-   [Vietnamien](https://missing-semester-vn.github.io/)
 
 Remarque : Ces liens externes résultent du travail de traduction de la
 communauté. Aucun travail de vérification n'a été effectué.
